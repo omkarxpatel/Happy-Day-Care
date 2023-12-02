@@ -205,6 +205,10 @@ h6,
         opacity: 0;
     }
 }
+#lastThingy {
+    justify-content: center;
+}
+
 
 @media (max-width: 575px) {
     .navbar {
