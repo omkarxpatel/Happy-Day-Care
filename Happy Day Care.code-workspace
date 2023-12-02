@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../../daycare-website-template"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "daycare-website-template"
+	}
+}

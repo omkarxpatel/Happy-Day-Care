@@ -206,6 +206,14 @@ h6,
     }
 }
 
+@media (max-width: 575px) {
+    .navbar {
+        width:95vw;
+        max-width:95vw;
+        left: 2.5vw;
+    }
+}
+
 .dropdown .dropdown-menu a:hover {
     background: var(--bs-secondary);
     color: var(--bs-primary);
